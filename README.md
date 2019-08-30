@@ -1,2 +1,4 @@
 # Quiz
-IOS Training - basic quiz app
+## IOS Training
+- creating a simple iOS app
+- MVC
